@@ -1,0 +1,150 @@
+{
+    "users": [
+      {
+        "id": 2,
+        "user_name": "Haroon",
+        "email": "Haroon@gmail.com",
+        "password": "123"
+      },
+      {
+        "id": "4",
+        "user_name": "Naveed riaz",
+        "email": "Naveed@gmail.com",
+        "password": "123"
+      },
+      {
+        "id": "5",
+        "user_name": "haris",
+        "email": "haris@gmail.com",
+        "password": "123"
+      },
+      {
+        "id": "6",
+        "user_name": "muhamamad",
+        "email": "muhammad@gmail.com",
+        "password": "123"
+      },
+      {
+        "id": "7",
+        "user_name": "ali",
+        "email": "ali@gmail.com",
+        "password": "123"
+      },
+      {
+        "id": "8",
+        "user_name": "yahya",
+        "email": "yahya@gmail.com",
+        "password": "123"
+      },
+      {
+        "id": "9",
+        "user_name": "ahmad",
+        "email": "ahmad@gmail.com",
+        "password": "123"
+      },
+      {
+        "id": "10",
+        "user_name": "",
+        "email": "",
+        "password": ""
+      },
+      {
+        "id": "11",
+        "user_name": "fazal",
+        "email": "fazal@gmail.com",
+        "password": "123"
+      },
+      {
+        "id": "12",
+        "user_name": "khurram",
+        "email": "khurram@gmail.com",
+        "password": "123"
+      },
+      {
+        "id": "13",
+        "user_name": "nawaz",
+        "email": "nawaz@gmail.com",
+        "password": "123"
+      },
+      {
+        "id": "14",
+        "user_name": "hassan",
+        "email": "haan@gmail.com",
+        "password": "123"
+      },
+      {
+        "id": "15",
+        "user_name": "haris",
+        "email": "haris@gmail.com",
+        "password": "123"
+      },
+      {
+        "id": "16",
+        "user_name": "moiz",
+        "email": "moiz@gmail.com",
+        "password": "123"
+      },
+      {
+        "id": "17",
+        "user_name": "Sir Tayyab",
+        "email": "tayyab@gmail.com",
+        "password": "123"
+      },
+      {
+        "id": "18",
+        "user_name": "muaz",
+        "email": "muaz@gmail.com",
+        "password": "123"
+      },
+      {
+        "id": "19",
+        "user_name": "hamza",
+        "email": "hamza@gmail.com",
+        "password": "123"
+      },
+      {
+        "id": "20",
+        "user_name": "abc",
+        "email": "abc@gmail.com",
+        "password": "123"
+      },
+      {
+        "id": "21",
+        "user_name": "def",
+        "email": "def@gmail.com",
+        "password": "123"
+      },
+      {
+        "id": "22",
+        "user_name": "fgh",
+        "email": "fgh@gmail.com",
+        "password": "123"
+      }
+    ],
+
+
+    
+    "posts": [
+      {
+        "id": 2,
+        "user_id": "7",
+        "user_name": "ali",
+        "post_title": "vfvdfvfd",
+        "post_body": "fvdfvdfvdf"
+      },
+      {
+        "id": 3,
+        "user_id": "7",
+        "user_name": "ali",
+        "post_title": "fvdfvdfvdffdaervfvevdsvfwe",
+        "post_body": "dsvfwedsfvfewqerghjgfrewrtghjmngfdsa"
+      },
+      {
+        "id": 4,
+        "user_id": "22",
+        "user_name": "fgh",
+        "post_title": "abcd",
+        "post_body": "efg"
+      }
+    ]
+  }
