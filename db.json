@@ -37,14 +37,29 @@
       "user_name": "hamza123",
       "email": "ali@gmail.com",
       "password": "123"
+    },
+    {
+      "id": "4",
+      "user_name": "hr1",
+      "email": "hr1@gmail.com",
+      "password": "123"
     }
   ],
   "Admin": [
     {
       "id": "1",
-      "user_name": "NextBridge",
-      "email": "nextbridge@gmail.com",
+      "user_name": "admin",
+      "email": "admin@gmail.com",
       "password": "123"
+    }
+  ],
+  "userPreference": [
+    {
+      "id": 1,
+      "user_id": "1",
+      "role": "Back End Developer",
+      "position": "Junior",
+      "location": "Lahore"
     }
   ]
 }
