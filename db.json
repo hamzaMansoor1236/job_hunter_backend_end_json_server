@@ -7,14 +7,8 @@
       "password": "123"
     },
     {
-      "id": "4",
+      "id": "2",
       "user_name": "hamza123",
-      "email": "hamza@gmail.com",
-      "password": "123"
-    },
-    {
-      "id": "5",
-      "user_name": "abc123",
       "email": "hamza@gmail.com",
       "password": "123"
     }
@@ -58,7 +52,14 @@
       "id": 1,
       "user_id": "1",
       "role": "Back End Developer",
-      "position": "Junior",
+      "position": "Senior",
+      "location": "Islamabad"
+    },
+    {
+      "id": 2,
+      "user_id": "2",
+      "role": "Front End Developer",
+      "position": "Beginner",
       "location": "Lahore"
     }
   ]
