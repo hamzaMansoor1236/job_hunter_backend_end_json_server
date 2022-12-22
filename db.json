@@ -1,39 +1,15 @@
 {
   "users": [
     {
-      "id": "1",
-      "user_name": "badar",
-      "email": "badar@gmail.com",
-      "password": "123"
-    },
-    {
-      "id": "2",
-      "user_name": "hamza123",
-      "email": "hamza@gmail.com",
+      "id": 7809,
+      "user_name": "user1",
+      "email": "user1@gmail.com",
       "password": "123"
     }
   ],
   "HR": [
     {
-      "id": "1",
-      "user_name": "NextBridge",
-      "email": "nextbridge@gmail.com",
-      "password": "123"
-    },
-    {
-      "id": "2",
-      "user_name": "hamza123",
-      "email": "hamza@gmail.com",
-      "password": "123"
-    },
-    {
-      "id": "3",
-      "user_name": "hamza123",
-      "email": "ali@gmail.com",
-      "password": "123"
-    },
-    {
-      "id": "4",
+      "id": 9289,
       "user_name": "hr1",
       "email": "hr1@gmail.com",
       "password": "123"
@@ -50,17 +26,25 @@
   "userPreference": [
     {
       "id": 1,
-      "user_id": "1",
-      "role": "Back End Developer",
-      "position": "Senior",
-      "location": "Islamabad"
-    },
-    {
-      "id": 2,
-      "user_id": "2",
+      "user_id": "7809",
+      "user_name": "user1",
       "role": "Front End Developer",
       "position": "Beginner",
       "location": "Lahore"
+    },
+    {
+      "id": 2,
+      "user_id": "6026",
+      "user_name": "user2",
+      "role": "Back End Developer",
+      "position": "Beginner",
+      "location": "Lahore"
     }
+  ],
+  "posts": [
+ 
+  ],
+  "matches": [
+  
   ]
 }
